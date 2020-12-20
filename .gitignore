@@ -1,0 +1,9 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VSCode Workspace
+*.code-workspace
+
+# Dataset
+data/
+!data/*.gitkeep
